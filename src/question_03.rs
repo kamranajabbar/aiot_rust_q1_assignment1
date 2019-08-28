@@ -1,3 +1,5 @@
 pub fn run(){
-    print!("KJ");
+    let a:f32 = 56.6;
+
+    println!("{}", a);   
 }
