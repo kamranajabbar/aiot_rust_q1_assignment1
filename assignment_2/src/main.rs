@@ -7,10 +7,7 @@
 //mod question_07;
 //mod question_08;
 //mod question_09;
-//mod question_10;
-//mod question_11;
-//mod question_12;
-mod question_13;
+mod question_10;
 
 fn main() {
     //question_01::run();
@@ -22,8 +19,5 @@ fn main() {
     //question_07::run();
     //question_08::run();
     //question_09::run();
-    //question_10::run();
-    //question_11::run();
-    //question_12::run();
-    question_13::run();
+    question_10::run();
 }
