@@ -1,5 +1,5 @@
 pub fn run(){
-    let a = "PAKISTAN ZINDABAD";
+    let a = "PAKISTAN ZINDABAD!";
     let b = a.len();
 
     println!("{}", a);
